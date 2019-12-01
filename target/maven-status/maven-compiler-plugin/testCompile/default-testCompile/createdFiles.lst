@@ -1,0 +1,12 @@
+com\facebookPom\pages\HandlingRadioButtons.class
+com\facebookPom\pages\HandlingSelectdropdown.class
+com\facebook\Testcases\VerifyRadioButton.class
+com\facebook\Testcases\VerifySelectClass.class
+com\facebook\Testcases\VerifyAlertclass.class
+com\facebookPom\pages\Drag_Drop_ex2.class
+com\facebookPom\pages\HandlingAlerts.class
+com\facebookPom\pages\HomePage.class
+com\facebook\Testcases\VerifyHomePage.class
+com\facebookPom\pages\LoginPageFb.class
+com\facebookPom\pages\Drag_Drop.class
+com\facebook\Testcases\VerifyFacebookLogin.class
